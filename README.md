@@ -30,3 +30,4 @@ include:
   - board: nice_nano_v2
     shield: corne_dongle_pro_micro nice_view_adapter dongle_display_view_pro_micro"
 ```
+
